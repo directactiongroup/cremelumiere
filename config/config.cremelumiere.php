@@ -1,15 +1,15 @@
 <?
 ##########################
-#iManage config: Reveriderm
+#iManage config: Creme Lumiere
 #Author: Eric Swenson
 #Copyright 2010 Secret Lab Studio, LLC
 #Unauthorized use or distriibution of iManage or it's components is forbidden without the permission of Secret Lab Studio, LLC
 ##########################
 
 // Site paths 
-$adminSiteName = 'Crème Lumière';                         
+$adminSiteName = 'Creme Lumiere';                         
 $adminSitePath = '../cremelumiere';                         
-$adminSiteURL = 'http://secretlabstudio.local/Direct_Action_Group/sitename';      
+$adminSiteURL = 'http://secretlabstudio.local/Direct_Action_Group/cremelumiere';      
 $adminSiteVar = 'cremelumiere';     
 
 // State/Region codes// Set default timezone
@@ -32,7 +32,7 @@ $siteDBName = 'dagroup';
 // Mail settings
 $mailEmail = 'support@cremelumiere.com';  
 $mailConfEmail = 'inquiries@cremelumiere.com';                  
-$mailSender = 'Reveriderm';
+$mailSender = 'Creme Lumiere';
 $mailContact = 'inquiries@cremelumiere.com';                  
 
 // Date/Time settings
