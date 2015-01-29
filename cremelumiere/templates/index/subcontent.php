@@ -20,10 +20,10 @@
 						<div class="col-xs-12 col-sm-12 col-md-7">
 							<div id="about">
 							<div class="bannerMed">
-								<span class="small">Crème Lumière works deep within the skin's surface to </span><br />
+								<span class="small">Cr&egrave;me Lumi&egrave;re works deep within the skin's surface to </span><br />
 								re-energize aging skin cells and restore youthful efficiency
 							</div>							
-							<p>Crème Lumière reinforces skin's natural short and long-term moisturization, and 'plumps up' skin tissue to restore elasticity. Clinical trials show a dramatic improvement on their skin after just a few weeks of continued use. Crème Lumière's exclusive blend of ingredients immensely reduced the signs of aging, resulting in increased smoothness, softening & decreased wrinkles.</p>
+							<p>Cr&egrave;me Lumi&egrave;re reinforces skin's natural short and long-term moisturization, and 'plumps up' skin tissue to restore elasticity. Clinical trials show a dramatic improvement on their skin after just a few weeks of continued use. Cr&egrave;me Lumi&egrave;re's exclusive blend of ingredients immensely reduced the signs of aging, resulting in increased smoothness, softening & decreased wrinkles.</p>
 							<div id="charts">
 								<div id="chart1">Skin hydration after 8 weeks application of test formulation</div>
 								<div id="chart2">Overall skin elasticity after 8 weeks application of test formulation</div>
@@ -69,12 +69,12 @@
 								<img src="../images/before+after.jpg" />
 							</div>
 							<div class="col-xs-12 col-sm-12 col-md-5" id="copy">
-								<p>Crème Lumière 'plumps up' skin tissue to restore elasticity and moisturizes the appearance of wrinkles. This quick penetrating cream works deep within the skin's surface to re-energize your skin cells, providing a soft, smooth and silky texture to the skin.</p>
+								<p>Cr&egrave;me Lumi&egrave;re 'plumps up' skin tissue to restore elasticity and moisturizes the appearance of wrinkles. This quick penetrating cream works deep within the skin's surface to re-energize your skin cells, providing a soft, smooth and silky texture to the skin.</p>
 								<p>The active ingredients Hyacare and Densiskin help to promote wrinkle free skin on a cellular level. to re-energize aging skin cells and restore youthful efficiency. Hyacare utilizes hyaluronic acid, a natural substance found in great abundance in young skin that has unmatched hydrating properties and is often referred to as 'Nature's Moisturizer.' Densiskin penetrates deep through the surface of your skin to rebuild its moisture retention capability and add hydration.</p>
 							</div>
 							<div class="clearfix"></div>
 							<div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
-								<h1><span class="bold purple">crème lumière restorative skin complex</span> reverses<br />the signs of aging by with stunning results:</h1>
+								<h1><span class="bold purple">cr&egrave;me lumi&egrave;re restorative skin complex</span> reverses<br />the signs of aging by with stunning results:</h1>
 								<div class="details">
 									<ul>
 										<li>Vanish Unwanted Fine Lines</li>
@@ -107,7 +107,7 @@
 					</div>
 					<div class="col-xs-12 col-sm-8 col-md-8 col-md-offset-0">
 						<h1>look younger and feel more confident</h1>
-						<p>supplies of <span class="bold">crème lumière</span> are limited. get yours today!</p>
+						<p>supplies of <span class="bold">cr&egrave;me lumi&egrave;re</span> are limited. get yours today!</p>
 						<div class="button"><a href="#order">Rush My Package!</a></div>
 					</div>
 				</div>

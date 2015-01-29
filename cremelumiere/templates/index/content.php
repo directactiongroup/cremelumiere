@@ -6,11 +6,11 @@
 			<div class="col-xs-12 col-sm-3 col-md-4" id="splash">
 				<img src="../images/logoWhite.png" />
 				<h1>moisturize<br />+<br />revitalize</h1>
-				<p><span class="bold">Crème Lumière</span> is a topical treatment that delivers outstanding results, reducing the fine lines and wrinkles caused by excessive pressure of the facial muscles. Your skin will look and feel healthier, younger, and more alive than it has in years.
+				<p><span class="bold">Cr&egrave;me Lumi&egrave;re</span> is a topical treatment that delivers outstanding results, reducing the fine lines and wrinkles caused by excessive pressure of the facial muscles. Your skin will look and feel healthier, younger, and more alive than it has in years.
 </p>
 			</div>
 			<div class="col-xs-12 col-sm-12" id="splash-blurb">
-				<p><span class="bold">Crème Lumière</span> is a topical treatment that delivers outstanding results, reducing the fine lines and wrinkles caused by excessive pressure of the facial muscles. Your skin will look and feel healthier, younger, and more alive than it has in years.
+				<p><span class="bold">Cr&egrave;me Lumi&egrave;re</span> is a topical treatment that delivers outstanding results, reducing the fine lines and wrinkles caused by excessive pressure of the facial muscles. Your skin will look and feel healthier, younger, and more alive than it has in years.
 </p>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-4 col-xs-offset-0 col-sm-offset-3 col-md-offset-3">

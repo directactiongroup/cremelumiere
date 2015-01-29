@@ -7,8 +7,8 @@ $scriptPath = substr($_SERVER['SCRIPT_FILENAME'],0,strrpos($_SERVER['SCRIPT_FILE
 require_once($scriptPath.'/app/bootstrap.php');
 
 // Turn error reporting on by removing the slashes for the two lines below
-error_reporting(-1);
-ini_set('display_errors',1);
+//error_reporting(-1);
+//ini_set('display_errors',1);
 
 // Create objects
 $customerObj = new customers;

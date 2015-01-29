@@ -8,7 +8,7 @@
 				<div id="details">
 					<h1>ORDER COMPLETE</h1>
 					<h3>Your package will be delivered in 2-3 business days:</h3>
-					<h3 class="bold">30-Day Supply Crème Lumière Restorative Skin Complex</h3> 				
+					<h3 class="bold">30-Day Supply Cr&egrave;me Lumi&egrave;re Restorative Skin Complex</h3> 				
 					<p>Retail  <label>$110.00</label></p>
 					<p class="peach bold">Trial Offer <label class="peach">$0.00</label></p>
 					<div class="divider"></div>

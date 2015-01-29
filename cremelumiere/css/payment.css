@@ -262,6 +262,11 @@ input[type=submit], .button {
 .bold {
 	font-weight:700 !important;
 }
+.form_error {
+	text-align:center;	
+	font-weight:700;
+	color:#cc0000;
+}
 #details .total {
 	padding-top:15px;
 	border-top:dotted 1px #000;

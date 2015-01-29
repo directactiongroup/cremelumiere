@@ -7,8 +7,8 @@ $scriptPath = substr($_SERVER['SCRIPT_FILENAME'],0,strrpos($_SERVER['SCRIPT_FILE
 require_once($scriptPath.'/app/bootstrap.php');
 
 // Turn error reporting on by removing the slashes for the two lines below
-error_reporting(-1);
-ini_set('display_errors',1);
+//error_reporting(-1);
+//ini_set('display_errors',1);
 
 // Create objects
 $customerObj = new customers;
@@ -225,13 +225,13 @@ function toggleProduct(product_id) {
 				<input type="hidden" name="order_id" value="<? echo $_SESSION['order_sess']; ?>" />
 				<input type="hidden" name="shipping_id" value="<? echo $shipping_id; ?>" />
 				<input type="hidden" id="product_id" name="product_id" value="<? echo $product_id; ?>" />
-				<? echo ($frmMsg != '') ? '<span class="form_error">'.$frmMsg.'</span>' : ''; ?>
 				<div id="billingSame">
 					<p>Is your billing address the same as your shipping?</p>
 					<label>Yes</label><input id="radioOne" type="radio" name="billing_same_as_shipping" value="1" checked /> 
 					<label>No</label><input id="radioTwo" type="radio" name="billing_same_as_shipping" value="0" /> 
 					<div class="clearfix"></div>
 				</div>
+				<? echo ($frmMsg != '') ? '<div class="form_error">'.$frmMsg.'</div>' : ''; ?>
 				<div id="customerInfo" style="display:none;">
 					<label>First Name</label>
 					<input name="name_first" type="text" class="field" id="name_first" value="<? echo $name_first; ?>" />
