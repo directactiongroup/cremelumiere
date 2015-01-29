@@ -324,6 +324,7 @@ function toggleProduct(product_id) {
 		</div>
 		<?php include 'templates/order/subcontent.php'; ?>
 	</div>
+	<?php include 'sitewide/footer.php'; ?>
 	<!-- Not sure if we need the below bit-->
 	<? echo ($product_id != '') ? '<script language="javascript">toggleProduct(\''.$product_id.'\');</script>' : ''; ?>		
 </body>
